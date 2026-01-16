@@ -1,8 +1,6 @@
 # ShadowSync
 ShadowSync--一款自动白加黑工具
 本工具是一款高度自动化的白加黑（DLL劫持）攻击辅助工具，旨在简化和加速红队操作中的DLL劫持攻击链。全流程自动化，该工具能够在几分钟内完成从目标识别到最终Payload生成的全过程，提升在比赛中的效率。
-
-<img width="899" height="729" alt="image" src="https://github.com/user-attachments/assets/0e814aea-9bb2-497f-8339-2663964d5891" />
 工具很简单，结合了 ZeroEye 的白程序挖掘逻辑和 AheadLib 的导出转发逻辑
 
 ZeroEye介绍：用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 binX64 或 binX86 文件夹，并生成 Infos.txt 文件记录DLL信息。自动化找白文件，**灰梭子（关联项目）**好搭档！！！
@@ -28,6 +26,9 @@ https://github.com/ImCoriander/ZeroEye
 3、点击scan ，会生成Output_ShadowSync_GUI文件夹
 
 4、只需将子文件夹内的白程序，ApiHelp.dll，生成的dll三个文件上传机器执行即可上线
-<img width="891" height="719" alt="image" src="https://github.com/user-attachments/assets/2dd8de13-cddf-48e5-aae9-f389c88748a5" />
-<img width="1815" height="705" alt="52780171bf7576c07a159c82db4df74b" src="https://github.com/user-attachments/assets/1b1804bc-5bcd-4395-a511-e684b85527da" />
-<img width="1309" height="651" alt="42a2059bdd0fec63b25480e1eccfa063" src="https://github.com/user-attachments/assets/aca75227-3890-4edc-89b8-c7b4eb932a5c" />
+
+V1.1升级
+<img width="1114" height="974" alt="image" src="https://github.com/user-attachments/assets/5c22edb4-619a-4334-8594-7a55db5faf90" />
+<img width="1885" height="765" alt="image" src="https://github.com/user-attachments/assets/88ef431d-8b48-41b7-af6b-53819e9e6f68" />
+<img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/3f73eb32-4de3-47f7-b17b-c65fe93eaf07" />
+
