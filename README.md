@@ -27,7 +27,7 @@ https://github.com/ImCoriander/ZeroEye
 
 4、只需将子文件夹内的白程序，ApiHelp.dll，生成的dll三个文件上传机器执行即可上线
 
-V1.1升级
+V1.1升级***（delay尽量不要改，默认就好，改了可能会出现程序启动失败问题）
 <img width="1114" height="974" alt="image" src="https://github.com/user-attachments/assets/5c22edb4-619a-4334-8594-7a55db5faf90" />
 <img width="1885" height="765" alt="image" src="https://github.com/user-attachments/assets/88ef431d-8b48-41b7-af6b-53819e9e6f68" />
 <img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/3f73eb32-4de3-47f7-b17b-c65fe93eaf07" />
